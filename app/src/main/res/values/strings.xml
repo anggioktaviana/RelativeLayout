@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="nama">Nama</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="perempuan">Perempuan</string>
+</resources>
